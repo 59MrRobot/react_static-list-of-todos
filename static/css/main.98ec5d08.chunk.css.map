@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/TodoInfo/TodoInfo.scss"],"names":[],"mappings":"AAAA,MACE,wBAA2B,CAC3B,gBAAiB,CACjB,aAAc,CACd,qBAAuB","file":"main.98ec5d08.chunk.css","sourcesContent":[".todo {\n  background-color: lightblue;\n  padding: 5px 10px;\n  margin: 25px 0;\n  border: 1px solid black;\n}\n"]}
